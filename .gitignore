@@ -1,0 +1,90 @@
+# Visual Studio cache files
+# =========================
+.vs/
+.ipch/
+*.db
+*.opendb
+
+# Build results
+# =============
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio files
+# ===================
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code files
+# ========================
+.vscode/
+
+# Backup & report files
+# =====================
+*.mdf
+*.ldf
+*.ndf
+*.csv
+*.svclog
+*.pfx
+
+# ReSharper files
+# ===============
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Other files
+# ===========
+*.cache
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+*.sqlite
+*.psess
+*.vsp
+*.vspx
+*.docstates
+Thumbs.db
+[Tt]humbs.db
+*.DS_Store
+
+# NuGet packages
+# ==============
+*.nupkg
+packages/
+*.snupkg
+
+# Web site publishing
+# ===================
+*.Publish.xml
+*.azurePubxml
+*.azurePubxml.user
+
+# Node.js modules
+# ===============
+node_modules/
+
+# Yarn lock file
+# ==============
+yarn.lock
+
+# Temporary files
+# ===============
+*.tmp
+*.temp
+~$*
+
+
+# Building files
+# ===============
+beast/
+x64/
