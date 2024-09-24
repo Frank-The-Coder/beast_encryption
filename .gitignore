@@ -17,8 +17,9 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.filters
 *.vcxproj
+*.vcxproj.filters
+*.sln
 
 # Visual Studio Code files
 # ========================
