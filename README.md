@@ -1,7 +1,3 @@
-Certainly! I'd be happy to help you write the `README.md` for your **php-beast-8** project. Below is a template you can use as a starting point. You can customize it to fit your project's specific details.
-
----
-
 # php-beast-8
 
 **php-beast-8** is an updated version of the [php-beast](https://github.com/iceheart/php-beast) PHP extension, modified to be compatible with PHP 8.x and compiled for both Windows and Linux platforms. This extension allows you to encrypt and protect your PHP source code from unauthorized access and modification.
