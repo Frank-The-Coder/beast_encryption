@@ -2,7 +2,7 @@
 
 /**
  * Encode files by directory
- * @author: liexusong
+ * @author: frank-the-coder
  */
 
 $nfiles = 0;

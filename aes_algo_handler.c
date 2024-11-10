@@ -1,6 +1,6 @@
 /**
  * AES encrypt algorithms handler module for Beast
- * @author: liexusong
+ * @author: frank-the-coder
  */
 
 #include <stdlib.h>

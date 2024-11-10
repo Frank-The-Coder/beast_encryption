@@ -3,7 +3,7 @@
 /**
  * Usage:
  * php encode_file.php --oldfile old_file_path --newfile new_file_path --encrypt DES --expire "2016-10-10 10:10:10"
- * @author: liexusong
+ * @author: frank-the-coder
  */
 
 $newfile  = null;

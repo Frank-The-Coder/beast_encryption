@@ -12,8 +12,7 @@
   | obtain it through the world-wide-web, please send a note to          |
   | license@php.net so we can mail you a copy immediately.               |
   +----------------------------------------------------------------------+
-  | Author: Liexusong <liexusong@qq.com>                                 |
-  |         maben <www.maben@foxmail.com>                                |
+  | Author: frank-the-coder                                              |
   +----------------------------------------------------------------------+
 */
 
@@ -25,10 +24,10 @@
 
 #include <fcntl.h>
 #include <signal.h>
+#include <stdio.h>
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <time.h>
-#include <stdio.h>
 
 typedef struct yy_buffer_state *YY_BUFFER_STATE;
 
@@ -581,7 +580,7 @@ zend_op_array *cgi_compile_file(zend_file_handle *h, int type) {
 #ifdef PHP_WIN32
     fd = _fileno(fp);
 #else
-	  fd = fileno(fp);
+    fd = fileno(fp);
 #endif
   } else {
     goto final;

@@ -1,6 +1,6 @@
 /**
  * Base64 encrypt algorithms handler module for Beast
- * @author: liexusong
+ * @auther: frank-the-coder
  */
 
 #include <stdlib.h>
